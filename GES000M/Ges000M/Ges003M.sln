@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ges003M", "Ges003M.csproj", "{2E5BD8A5-A6EA-4DB5-99BD-8700AD9C9FCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E5BD8A5-A6EA-4DB5-99BD-8700AD9C9FCE}.Debug|x86.ActiveCfg = Debug|x86
+		{2E5BD8A5-A6EA-4DB5-99BD-8700AD9C9FCE}.Debug|x86.Build.0 = Debug|x86
+		{2E5BD8A5-A6EA-4DB5-99BD-8700AD9C9FCE}.Release|x86.ActiveCfg = Release|x86
+		{2E5BD8A5-A6EA-4DB5-99BD-8700AD9C9FCE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

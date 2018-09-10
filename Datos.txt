@@ -1,0 +1,6 @@
+echo "# GES_00M" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/proyectclinicos2018/GES_00M.git
+git push -u origin master
